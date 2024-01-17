@@ -1,0 +1,8 @@
+argparse
+requests
+aiohttp
+asyncio
+boto3
+pysubs2
+srt
+tenacity
